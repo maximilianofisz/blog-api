@@ -1,5 +1,6 @@
 # blog-api
 Simple Web API for dør.
+
 Para levantar la api:
 Clonarla, agregar las tablas SQL que estan adjuntas en el repo y agregar la conn string al appsettings.json
 
